@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { supabase } from "@/supabase";
+// @ts-ignore
 import { Auth, ThemeSupa } from "auth-ui-vue";
 import "auth-ui-vue/dist/style.css";
 import { useRouter } from "vue-router";
