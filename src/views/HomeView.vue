@@ -22,7 +22,7 @@ const goToDashboard = () => {
     router.push({ name: "dashboard" });
 };
 
-const redirectTo = computed(() => `${import.meta.env.VITE_BASE_URL}/change-password`);
+const redirectTo = computed(() => `${import.meta.env.VITE_BASE_URL}/change-password/`);
 </script>
 
 <template>
