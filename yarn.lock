@@ -544,10 +544,10 @@ array-union@^2.1.0:
   resolved "https://registry.npmjs.org/array-union/-/array-union-2.1.0.tgz"
   integrity sha512-HGyxoOTYUyCM6stUe6EJgnd4EoewAI7zMdfqO+kGjnlZmBDz/cR5pf8r/cR4Wq60sL/p0IkcjUEEPwS3GFrIyw==
 
-auth-ui-vue@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/auth-ui-vue/-/auth-ui-vue-0.0.5.tgz#a1f0da6a91e61882d7bdae5a023cfeca4c03f8d2"
-  integrity sha512-OEYITRPsJAuQC8DKEFC9MIApTQUieYTQPx8p+Mfy9ZSlmf14Z6R6PMeuTqNm6SXndGfHgNFQjYHHAXPYCKGk5A==
+auth-ui-vue@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/auth-ui-vue/-/auth-ui-vue-0.0.7.tgz#a73f2aec7fc156d84e35d30165b584db38f0fb7b"
+  integrity sha512-RXond0yP/3NSu6lVWOnogTFlTAgwbGxFv0LRA0BP1THgvBuH21vDli9FiNdczfb/FwTSaLCO4sLIlu5Jwp2DsA==
   dependencies:
     vue "^3.2.45"
 
